@@ -1,4 +1,4 @@
-package memoryreminder
+package main
 
 import (
 	"context"
@@ -89,39 +89,17 @@ func main() {
 		log.Fatalf("Unable to retrieve Calendar client: %v", err)
 	}
 
-	t := time.Now().Format(time.RFC3339)
-	events, err := srv.Events.List("primary").ShowDeleted(false).
-		SingleEvents(true).TimeMin(t).MaxResults(10).OrderBy("startTime").Do()
-
-	for index, element := range dates(time.Now()) {
+	for _, element := range dates(time.Now()) {
 		event, err2 := srv.Events.Insert("primary", &calendar.Event{
-			Summary: "some",
-			Start: &calendar.EventDateTime{
-				Date: "2023-04-30",
-			},
-			End: &calendar.EventDateTime{
-				Date: "2023-04-30",
-			},
+			Summary: "https://github.com/franciscolopezsancho/reminder/blob/main/1600s_timeline",
+			Etag:    "reminder-alphav1",
+			Start:   &element,
+			End:     &element,
+			ColorId: ,
 		}).Do()
 		if err2 != nil {
 			panic(err2)
 		}
 		fmt.Printf("event created %v", event)
-	}
-
-	if err != nil {
-		log.Fatalf("Unable to retrieve next ten of the user's events: %v", err)
-	}
-	fmt.Println("Upcoming events:")
-	if len(events.Items) == 0 {
-		fmt.Println("No upcoming events found.")
-	} else {
-		for _, item := range events.Items {
-			date := item.Start.DateTime
-			if date == "" {
-				date = item.Start.Date
-			}
-			fmt.Printf("%v (%v)\n", item.Summary, date)
-		}
 	}
 }

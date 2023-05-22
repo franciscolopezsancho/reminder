@@ -1,4 +1,4 @@
-package memoryreminder
+package main
 
 import (
 	"fmt"
