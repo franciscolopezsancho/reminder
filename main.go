@@ -70,6 +70,12 @@ func saveToken(path string, token *oauth2.Token) {
 	json.NewEncoder(f).Encode(token)
 }
 
+//Increase the color code by one
+//Change the Summary and Descripton
+//Delete token.json if expired.
+//Run go run main.go time.go
+//Go to link prompt in the command line
+//Copy the 'code' from the final URL after log in with link above with your Google Account
 func main() {
 	ctx := context.Background()
 	b, err := os.ReadFile("credentials.json")
@@ -91,11 +97,12 @@ func main() {
 
 	for _, element := range dates(time.Now()) {
 		event, err2 := srv.Events.Insert("primary", &calendar.Event{
-			Summary: "https://github.com/franciscolopezsancho/reminder/blob/main/1600s_timeline",
-			Etag:    "reminder-alphav1",
-			Start:   &element,
-			End:     &element,
-			ColorId: ,
+			Description: "https://github.com/franciscolopezsancho/reminder/blob/main/20-40.worten.txt",
+			Summary:     "20-40.worte",
+			Etag:        "reminder-alphav1",
+			Start:       &element,
+			End:         &element,
+			ColorId:     "4", // https://developers.google.com/calendar/api/v3/reference/colors
 		}).Do()
 		if err2 != nil {
 			panic(err2)
