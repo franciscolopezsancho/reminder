@@ -5,7 +5,7 @@ verderben		estropear		Esta con la computer y saltan los muellen. Llamma a la mas
 brechen		romper		le da una ostia al coco y abre una brecha en la parte del centro
 schneiden		cortar		Schneiden a punto de meter gol y le cortan la pierna
 kleben		pegar		pegando dos tuberias juntas sin pegamento, y le pregunta el otro? como conio lo has hecho, se toca el temporal. Soy muy listo (CLEVER)
-DOKUMENTATION		DOCUMENTACIÓN		Le pide la documentacion
+DOKUMENTATION		DOCUMENTACIÓN		Le pide la documentacion del coche
 Reisepass		Pasaporte		le rompe el pasaporte y le dice viaja (REISE) con este QR.(PASS) 
 Polizei		Policía		El policia saca la porra y se arrodilla en su cuello
 Zoll		Aduana		Va a salir del aeropuerto y le dice el Zorro pon tu maleta en esta olla
