@@ -4,13 +4,14 @@ Computer		Ordenador		Monta la computer y aparece el numero 42. Computa si señor
 Laptop		Portátil		cierra el portatil, sentado y un dancer se le sienta en el lap y se quita el top
 Videokamera		Cámara De vídeo		un tio grabando un robo
 Fotokamera		Cámara De fotos		un tio fotografiando una model
-Schlange		Cola (fila)		se acerca el la caja  y cuando va a preguntar el dicen shhhhh mira y ve que hay una cola, muuuuuy lange. 
+Schlange		Cola (fila)		se acerca el baño  y cuando va a preguntar el dicen shhhhh mira y ve que hay una cola, muuuuuy lange. 
 Kontrolle		Control		el profesor X controlling a lady dancing dirty and awkardly
 Hilfe		Ayuda		hundiendose en las arenas movedizas
 Eingang		Entrada		va a entrar y hay UNO enorme mirando a un gang de chiquilicuatres
-Ausgang		Salida		sale del cien y se choca con una casa pequeñita y de ella sale un gang the maleantes gritando bajito
+Ausgang		Salida		sale del ascensor y se choca con una casa pequeñita y de ella sale un gang the maleantes gritando bajito
 Rechts		Derecha		franco
 Links		Izquierda		pedro sanchez
 FLUGHAFEN		AEROPUERTO		un minibarajas y al tocarlo se contagia y empieza a estornudar, por que HAVE FLU, 
-Bahnhof		Estación de tren		en atocha la gente banea, con una picture the las cortes
-Busbahnhof		Estación de bus		Esperando al autobus pasa gente baneando las cortes
+Bahnhof		Estación de tren		un mini estacion de tren con trenecitos, con cortes sangrantes
+Busbahnhof		Estación de bus		Esperando al autobus se va a hacer un cafe pone una pegatina de prohibido y se corta
+U-Bahn-Station		Estación de metro		Esperando el metro aparece uno con una U magnetica y pone pegatinas de prohibido en los coches stacionados en las vias del metro
