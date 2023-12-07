@@ -1,0 +1,18 @@
+Flugzeug		AVION		dentro del avion la gente estornudando FLU otros riendo GGGG y el mismismo ZEUs
+Flug		Vuelo		Un tipo con alas estornuda y empieza a volar
+Schiff		Barco		claudia Schiffer vestida de capitana de barco en la proa de un barco como el titanic
+Zug		Tren		un trenecito con un pitidito muy chulo
+U-Bahn		Metro		un metro de medir y un tren que se choca contra el y se queda hecho una U
+Straßenbahn		Tranvía		un tranvia se cortocircuita y la calle se electrocuta. Close, BANNED le ponen an el tranvia
+Waggon		Vagón		un vagon en la taza del vater 
+Bus		Autobús		Un autobus parte y los la mitad trasera se quedan en el sitio mientras la delantera continua
+Taxi		Taxi		llamando a un taxi y se tira desde la cruz
+				
+Auto:		COCHE		En el coche intentand meter la primera y el instructor le da un colleja, que es AUTOmatico man
+Garage:		Garaje		El coche entra en el garage
+Motorrad:		Moto		Una moto hace un derrape y un RADio se escapa y se clava en el craneo de uno
+Fahrrad:		Bicicleta		Un corredor del Tour se para y se pone FAHRiña en el RADio, menudo pulso piensan los correcdores que le pasan
+Autobahn:		Autopista		En una autopista de 6 carriles aparece un coche gigante con una pegatina de prohibido, para toda la circulacion
+Straße:		Carretera		Un carretera de doble direccion bloqueada por un concierto de musica de Strauss, el danubio azul, pasa por la mitad
+Weg:		Camino		En un caminillo fulero uno pisa un Wig y piensa que es un truño, ah no? lo coge y se lo pone en la cabeza
+Tankstelle:		Gasolinera		entra de noche  en la gasolinera y ve un tanke con estrellitas de fondo
