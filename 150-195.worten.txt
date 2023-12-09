@@ -1,0 +1,46 @@
+Wohnzimmer		SALÓN		en el salon de castillo 300 personas durmiendo mientras otras ven la tele, hablan y demases																						
+Möbel		Mueble		Un armario del XVIII se mueve (MEBEL)																						
+Sofa		Sofá		Un sofa con L y desaparece (hint de que es igual)																						
+Sessel		Sillón		Un sillon para leer una S serpiente comiendose una L																					
+Stuhl		Silla		En una silla de madera echa un trunio (Stool)																						
+Tisch		Mesa		un mesa estornua y se limpia los mocos y luega la mesa con la TISSUE																						
+Teppich		Alfombra		Le enseña una alfomfra y le tira un TE y sale un pichon																						
+Fernseher		Televisión		La television a todo trapo y aparece FERNando Alonso y se que enbobado, cayendose la baba mirando SEHER (es un miron)																						
+Telefon		Teléfono		suena el telefono y desaparece																						
+Radio		Radio		La radio bajando el volumen y desaparece																						
+Fernbedienung		Mando a distancia		Tocando todos los botones del mando y Alonso FERN otra vez, el mando no funciona y el grita BEEEE y muere DIE																						
+Pfeiler		Pilar		Un pilar enorme, se acerca uno escarba un PI sign y ... fails? se cae								
+Elektrizität		Electricidad		Uno electrocutandose y desaparece																						
+Lampe		Lámpara		Enciende la Lampara de noche y desaparece la lampara, otra vez a oscuras																						
+Balkon		Balcón		salta al balcon y el balcon desaparece, y se desploma																						
+Sonnenschein		la luz del sol entra por la ventana y los hijos (SONNES) de reimon y brillan (SCHEIN)																						
+SCHLAFZIMMER		DORMITORIO		Una pareja en el dormitorio y le dice SHHHH, el otro se empieza a reir sin poder contenerlo LAF y suena la musica de interestellar																						
+Vorhang		Cortina		cierra la cortina y hay cuatro (VOR) murcielagos colgando (HANG)																						
+Kleiderschrank		Armario		El armario de la ropa lo abre y esta lleno de vestidos (KLEID) muy timidos, que se encogen. 																						
+Bett		Cama		En una cama tumbado y la cama desaparece 																						
+Bettlaken		Sábana		quita la BETT y queda una sabana y como los magos la saca y los fuegos de abajo no estan. LACKs																						
+Decke		Manta		Se echa la manta mientras ve la tele y uno con la Black and Decker le fastidia la fiesta																						
+Steppdecke		Edredón		Se hecha un edredon super gordo aunque ligero y uno pisa el edredon (que no se hunde) y intenta atravesarlo con una black and decker pero ni el mas minimo roce																						
+Badezimmer		BAÑO		entra en el baño y hay uno disfrazado de Zimmer pero con bigote, VA DE Zimmer																						
+Waschbecken		Lavabo		en el lavabo lavando al pequeno beckam																						
+Dusche		Ducha		En la ducha duchandose y le hacen tusche en el tracas, da un salto																						
+Seife		Jabón		Se unta con el jabo y le pasa com al the ready player one.																						
+Handtuch		Toalla		se va a secar con la toalla y sale un mano y le toca la cara																						
+Toilettenpapier		Papel higiénico		se va a limpiear el culo con el papel  se convierte ne un toy de papel																					
+Zahnbürste		Cepillo		coge el cepillo y los dientes (Zahn) empiezan a arderle																						
+Zahnpasta		Pasta dental		hecha la pasta en el dedo y los dientes se le convierten en spagetti (pasta)																						
+Küche		Cocina		Arguiñano invintandole a entrar a la cocina, pero le pide que entre coje ando																						
+Kühlschrank		Frigorífico		Abre el frigorifico y sale una brisa coool y de repende schrinks tanto que ya no puede coger nada.																						
+Waschmaschine		Lavadora		Un lavadora destartalada, que parece terminator Was machine																						
+Mikrowelle		Microondas		pone algo en el microondas y le salen velas																						
+Geschirrspüler		Lavavajillas		Pone un plato en el lavavajillas y se convierte en un libro de historia (GESCHIchte) y empieza a multiplicarse y se sale (SPIL) del lavavajillas																						
+Teller		Plato		haciendo equilibrios con un plato y contando una historia a unos niños sentados en el suelo																						
+Schüssel		Fuente		Una fuente con un cincel gigante para abrir el coche (CHisel)																						
+Tablett		Bandeja		una bandeja con la cena, tira todo y la pone como un IPAD (tablet) para ver su serie																						
+Glas		Vaso		un vaso y desaparece, se moja																						
+Tasse		Taza		un taza y desaparece, se quema																						
+Flasche		Botella		bebiendo leche de la botella blanca y le da un FLASH en los ojos que lo sienta																						
+Dose		Bote		un bote de fabada y se pone una DOSIS por vena																						
+Pfanne		Sartén		levantando la comida en una sarten y casi se le cae todo y le sale un PF por el ano																						
+Topf		Olla		dandole vueltas a una olla y salta y se pone on TOP un pie en cada lado																						
+Kochtopf		Cazo		probando una sopa de un cazo y esta bien. Se la lleva COJenado y la pone en la estanteria, en la shelf del mas alta, TOP.																						
