@@ -1,0 +1,36 @@
+Besteck		CUBIERTO		coje un con un cubierto por un lado cuchillo y otro tenedor corta y pincha un bistek sangriento
+Löffel		Cuchara		con una cuchara recoje la lef del suelo
+Gabel		Tenedor		pincha a Grabriel en las alas
+Messer		Cuchillo		amenaza con un cuchillo a negro con el pelo a lo afro y lo usa para MESS el pelo, Even more ER. 
+Serviette		Servilleta		Coge la servilleta y antes de limpiarse desaparece y se limpia con la mano
+Zahnstocher		Palillo		con el palillo en los dientes lo usa como un tojino para asegurar un barco
+				
+Ding, Sache		COSA		la masa, desparece vuelve a aparecer y se derrite
+Objekt		Objeto		OVNI desaparece
+Machine		Máquina (aparato)		una maquina de coser y casi al terminar se congela y hace el pantaca añicos
+Beispiel		ejemplo		el tukan de laseca
+				
+Land		PAÍS		el periodico el pais, LANDs en las manos de Franco y se quema
+Spanisch		Español		un torero y al hacer la capotada desaparece
+Sprache		Idioma		Uno hablando un idioma que ni se entera ... y le tira SPRAY en la cara
+Grenze		Frontera		En la frontera (Charlie point) un cuervo graznando
+Region		Región		Un soldado regio defendiendo una region minima y la region desaparece
+Stadt		Ciudad		Un ciudad en un anzuelo, y una serpiente subiendo (S) y TADeo
+Dorf		Pueblo		Un tio de pueblo (alfredo landa), con boina. Le empiezan a torturar y el tio nada, tiene enDORFinas para dar y tomar
+Viertel		Barrio		Barriendo Espinete (BArrio sesamo) se le VIERTe la coca cola que tiene el bolsillo.
+Siedlung		Urbanización		en la urbanizacion de Bangalore, Uno en el top con una geringa de SIDa clavada el en LUNG
+Landhaus		Chalé		El chalet de cristiano, atterriza un casa
+Gebäude		Edificio		El shard, y conf un gorro de general un boy dandose un baño
+Wohnung		Apartamento		el apartamento de Vinaroz, entro y se congela. (como un espejo, en vez de desaparecer)
+				
+Allee		Avenida		en gran via, la gente celebrando España campeona del mundo, ALLEEE
+Platz		Plaza		En la plaza de españa, david copperfield  la hace desaparecer
+Kreuzung		Cruce		en el cruze de Shibuya (shi hay much abuya) una cruz de cristo ensangrentada
+Ecke		Esquina		Un lumi en la esquina, le pica. Ecke. 
+Stadtzentrum		Centro (ciudad)		cae un rayo el la puerta del Sol, arde y desaparece
+Anfang		Principio		El principito con una semilla, se la mete en el tracas AN y le sale un ventilador por la boca FAN
+Mitte		Mitad		un dollar por la mitad, arde y desaparece.
+Ende		Fin (final)		Cae el telon, FIN y arde y desaparece
+Park		Parque		Un parque se quema y desaparece
+Garten		Jardín		Un jardin, se congela y se hace añicos
+Brunnen		Fuente		bebiendo agua de la fuente y la rubia se vuelve brunnete 
