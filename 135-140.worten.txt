@@ -1,19 +1,21 @@
-Haltestelle		PARADA		en la parada del autobus (dentro del ascensor) sale de ella cuando el autobus se acerca y le dice HALT mira las STELE que chulis
-Bahnsteig		Andén		En al anden del metro, uno poniendo BANs en la gente sentada en el borde del anden (TIE)
-Gleis		Vía		Le ponen una via, y se rompen las ventanas de cristal del coche (GLEIS)
-Fahrplan		Horario		Mirando el horario de las paradas del autobus, se aburre y se pone un tiro y pasa tanto tiempo que crece una planta
-Sitzplatz		ASIENTO		Se sienta comodamente, y le dice a perro coge SIT y le pone un plato encima
-5.5 Fahrkarte		Billete		El portero me pida En la entrada  el billete el revisor y el usuario se pone un tiro y le da el as de corazones
-Reihe		Fila		Una fila enorme de gente y de un bunch or RYE sale HEman
-Klasse		Clase		Una classe llena de alumnos
-Erste Klasse		Preferente		todos en la clases con unas frentes gigantes 
-Touristenklasse		Turista		todos en la classe con pinta de turista 
-10-Abteil		Camarote		se tira en el camarote y le sale una cola (TEIL) dell ABdominal
-11Hotel		HOTEL		entra en el hotel
-12Zimmer		Habitación		entra en la habitation y esta Hans Zimmer dirigiendo Regreso al futuro
-13Nummer		Número		mira el numero su tatoo y el dependiente lo tiene  igual
-14Schlüssel		Llave		saca la llave intenta meterla haciendo mucho ruido y no funciona, y se acerca uno y le dice SHHH y le dice LISalo
-15Aufzug		Ascensor		en el ascensor los de tresciento gritando AU! y pasa un ZUG en medio de ellos
-16Treppe		Escaleras		subiendo el tuk tuk por las escaleras es muy lento, mejor TREPAR
-17Etage		Planta (piso)		y esta todo el piso levantado , sale un duende y el dice EH! y le planta una tag en el pecho, arregla pisos.
-18Flur		Pasillo		un pasillo que parece infinito y le dicen tienes que pasarle el FLUOR por todo.
+Haltestelle - die Haltestelle		PARADA		en la parada del autobus sale de ella cuando el autobus se acerca y le dice HALT mira las STELE que chulis
+Bahnsteig - der Bahnsteig		Andén		En al anden del metro, uno poniendo BANs en la gente con corbata (TIE)
+Gleis - das Gleis		Vía		Le ponen una via, y se le caen las gafas de cristal (GLEIS)
+Fahrplan - der Fahrplan		Horario		Mirando el horario de las paradas del autobus, se aburre y se pone un tiro y pasa tanto tiempo que crece una planta
+Fahrkarte - die Fahrkarte		Billete		En la entrada le pide el billete el revisor y el usuario se pone un tiro y le da el as de corazones
+				
+Sitzplatz - der Sitzplatz		ASIENTO		Se sienta comodamente, y coge el sit? y lo tira a la plaza
+Reihe - die Reihe		Fila		Una fila enorme de gente y de un bunch or RYE sale HEman
+Klasse - die Klasse		Clase		Una classe llena de alumnos
+Erste Klasse - die Erste Klasse		Preferente		abre la puerta de la clase y cuando va a salir el primero le dice el profesor. No sennor ERNESTO tu primero. Que eres el primero de la clase. 
+Touristenklasse - die Touristenklasse		Turista		uno con pinta de turista, se quita el gorro y tiene un peinado de lux, con KLASSe
+Abteil - das Abteil		Camarote		se tira en el camarote y le sale una cola (TEIL) dell ABdominal
+				
+Hotel - das Hotel		HOTEL		entra en el hotel
+Zimmer - das Zimmer		Habitación		entra en la habitation y esta Hans Zimmer dirigiendo Regreso al futuro
+Nummer - die Nummer		Número		mira el numero de la habitacion, y si es igual
+Schlüssel - der Schlüssel		Llave		saca la llave intenta meterla haciendo mucho ruido y no funciona, y se acerca uno y le dice SHHH y menea la cabeza y piensa menudo LUSER
+Aufzug - der Aufzug		Ascensor		en el ascensor los de tresciento gritando AU! y pasa un ZUG en medio de ellos
+Treppe - die Treppe		Escaleras		subiendo por las escaleras es muy lento, mejor TREPAR
+Etage - die Etage		Planta (piso)		llega al primero piso y ve una planta, sale un duende y el dice EH! y le planta una tag en el pecho
+Flur - der Flur		Pasillo		un pasillo que parece infinito y le dicen tienes que pasarle el FLUOR por todo.

@@ -1,0 +1,15 @@
+das Geschäft		TIENDA		Entran en una tienda y esta un el GEneral che guevara y les dice, les atendera el CHEF, y aparece EPI con gorro the chef
+das Unternehmen		Empresa		unas oficinas se rompe una pared que es la presa, y los que estan debajo (UNTER) se cogen(nehmen) de los palos
+der Hypermarkt		Hipermercado		El Hipe en un mercado, arde y desaparece
+der Supermarkt		Supermercado		Super man en un mercado, arde y desparece
+das Restaurant		Restaurante		Epi en un mesa con una sevilleta, Restaurante asturiano olavide, arde y desaparece
+das Café		Cafetería		Epi pidiendo un cafe, tan caliente que se evapora
+die Bäckerei		Panadería		Sharon pidiendo una baggete, y se da la vuelta BECK amn y ella le dice NO la de Rye
+das Uhrengeschäft		Relojería		En en una tienda y el dueño mirando un reloj con lupa, Epi le dice tiene hora? y levanta la cabeza y es un el rey Charlie (ENGles) y se pone un gorro de CHEF, no lo siento.
+das Juweliergeschäft		Joyería		En una tienda llena de diamantes en montones, EPI los tira al cielose inunda todo (mejor que congelar, mas movimiento)
+das Schuhgeschäft		Zapatería		Vendiendo zapatos en las escaleras. Inundacion (todos los gesheft son neutro
+das Spielwarengeschäft		Juguetería		EPI jugando (SPIEL) a la grerra(WAR) con jugetes y inundacion
+die Boutique		Boutique		En una tienda de botes, barcos miniatura entra Sharon y cuando elige un arde y desaparece
+der Friseursalon		Peluquería		Brad pitt entra en la heladeria a que le corten el pelo. Se sienta como tal, le cortan el pelo ycuando va a pagar le dicen para usted is FREE SIR, y si quiere. pase al Salon de señoritas ahora 
+das Eisenwarengeschäft		Ferretería		Lleno de clavos la tienda de la esquina, EPI vendiendo helados y metiendolos, con cucurucho y todo en tupper WAREs. Y cuando los va a dar, inundacion
+die Werkstatt		Taller		En un taller de escultura, todo pibas esculpiendo. Sharon WERKING out, pull ups y cuando se tira al suelo los pelos como escarpias, de electricidad STATtica .
