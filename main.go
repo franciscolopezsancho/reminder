@@ -97,12 +97,12 @@ func main() {
 
 	for _, element := range dates(time.Now()) {
 		event, err2 := srv.Events.Insert("primary", &calendar.Event{
-			Description: "https://github.com/franciscolopezsancho/reminder/blob/main/20-40.worten.txt",
-			Summary:     "20-40.worte",
+			Description: "https://github.com/franciscolopezsancho/reminder/blob/main/275-310.worten.txt",
+			Summary:     "275-310.worten.txt",
 			Etag:        "reminder-alphav1",
 			Start:       &element,
 			End:         &element,
-			ColorId:     "4", // https://developers.google.com/calendar/api/v3/reference/colors
+			ColorId:     "10", // https://developers.google.com/calendar/api/v3/reference/colors
 		}).Do()
 		if err2 != nil {
 			panic(err2)
