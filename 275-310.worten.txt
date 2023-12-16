@@ -21,7 +21,7 @@ das Fleisch		CARNE		EPI comiendo un filete
 das Huhn		Pollo		Blas vestido de huno cazando un pollo
 das Rindfleisch		Ternera		Linda de barrio sesamo, apuntando con una pistola a una ternerita, RINDete!  la ternera se arrodilla con las manos detras de la cabeza y linda le arranca un trozo de carne
 das Schwein		Cerdo		Un cerdo bebiendo vino y gustavo quitandoselo
-das Filet		Solomillo		Coco cortando un solomillo en rodajas
+das Filet		Solomillo		Coco cortando un solomillo en rodajas, y la gente haciendo fila para llevarselo
 das Medium (gekocht)		«Poco hecha» (comida)		Gustavo cortando la carne por la mitad y la pone en las escaleras que se haga poco, aparece un general con gorro de cocinero dandole su approbacion
 das Durchgebraten		«Muy hecha» (comida)		Coco pinchando la carne dejando la carne al sol muuucho rato hasta que se seca y quiebra
 				
