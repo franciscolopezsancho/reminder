@@ -1,0 +1,19 @@
+der Mann		HOMBRE		Brad  entrando en la tienda mientras el perro ladra y poniendose mas tocho
+die Frau		Mujer		Sharon vestida de franciscana se quita el habito 
+der Junge		Chico		En la pelu en cliente (joven) confesandose a Jung mientras le cortan en pelo 
+das Mädchen		Chica		Jenn Ortega volviendose loca con todas la luces de las lamparas
+das Kind		Niño		Ponen a un bebe en la mesa y se convierte en un muñeco
+das Mädchen		Niña		Ponen una bebe y se vuelve loca, cogiendo a la gente de la solapa y llorando en su cara. 
+der alte Mann		Anciano		Un viejo japones (Jiro), muy viejo, se altera(enfada) cuando le ponen un shushi de full. 
+die alte Frau		Anciana		Y llega detras su mujer y mas de lo mismo
+das Baby		Bebé		Entran con un bebe en brazos y lo envuelve en al Babero.
+der Ehemann		Esposo		en la estatua uno en burro diciendole EHE al burro 
+die Ehefrau		Esposa		para acercarse a la mujer que tambien le dice EHE al burro y se intercambian los anillos
+				
+der Freund		AMIGO		Marlon Brandon sentado con su familia, y un colega que es Freud. 
+der Vater		Padre		
+die Mutter		Madre		
+der Sohn		Hijo		
+die Tochter		Hija		
+der Bruder		Hermano		
+die Schwester		Hermana		
