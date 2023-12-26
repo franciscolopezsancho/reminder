@@ -1,0 +1,31 @@
+Die Woche		SEMANA		en la barra de pull ups sharon colgada un un calendario, agarrada de una fila, la semana
+Das Wochenende		Fin semana		aparece EPI con una catana y corta (FIN) el calendario por la semana (WOChE) 
+Der Feiertag		Día festivo		Brad friendo un label tag
+Der Montag		Lunes		Brad mira a el cuadro y hay un calendario, los dias empiezan a marcarse y luego las hojas (meses) empiezan a volar
+Der Dienstag		Martes		...
+Der Mittwoch		Miércoles		
+Der Donnerstag		Jueves		
+Der Freitag		Viernes		
+Der Samstag		Sábado		
+Der Sonntag		Domingo		
+				
+Der Monat		MES		
+Der Januar		Enero		
+Der Februar		Febrero		
+Der März		Marzo		
+Der April		Abril		
+Der Mai		Mayo		
+Der Juni		Junio		
+Der Juli		Julio		
+Der August		Agosto		
+Der September		Septiembre		
+Der Oktober		Octubre		
+Der November		Noviembre		
+Der Dezember		Diciembre		
+				
+Der Meter		METRO		Brad mide el sillon, tira una pesa de kilo y luego coge una grande como un coche y se tira con ellla al sillon
+Der Kilometer		Kilómetro		...
+Das Kilo		Kilo		
+Die Tonne		Tonelada		
+				
+Das Wetter		TIEMPO		EPI mirando la tele y la mujer del tiempo, y se pone humeda y mas humeda
