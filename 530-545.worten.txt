@@ -1,7 +1,7 @@
 Das Tier		ANIMAL		Un grifo montado por gustavo en una balda (TIER)																						
 Der Hund		Perro		Un perro meando en el arbol y el arbol HUNDiendose, Brad pit intenta que no se hunda																						
 Die Katze		Gato		El gato en el coche con la vecina, ella con una Z en la frente																						
-Das Pferd		Caballo		EPI bajando en caballo por la cuesta, tirandose pedos (PF) de fresa (ERDberen)																						
+Das Pferd		Caballo		EPI bajando en caballo por la cuesta, tirandose pedos (PF) con una de fresa (ERDberen) como carro																						
 Der Esel		Asno		Un asno resistiendose a andar mientras brad tira de la S que le pasa por la nariz																						
 Die Kuh		Vaca		La de la farmacia ordeñando una vaca con el gorro del KU kus clan																						
 Der Ochse		Buey		El chino (Jacki chan) arando con un buey, haciendo 8s en el suelo																						
