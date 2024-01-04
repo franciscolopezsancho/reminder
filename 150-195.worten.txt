@@ -1,5 +1,5 @@
 das Wohnzimmer		SALÓN		en el salon de castillo 300 personas durmiendo mientras otras ven la tele, hablan y demases																						
-die Möbel		Mueble		Un armario del XVIII se mueve (MEBEL)																						
+die Möbel		Mueble		Un armario del XVIII se mueve (MEBEL)	esta halle berry in																					
 das Sofa		Sofá		Un sofa con L y desaparece (hint de que es igual)																						
 der Sessel		Sillón		Un sillon para leer ...																						
 der Stuhl		Silla		En una silla de madera echa un trunio (Stool)																						
