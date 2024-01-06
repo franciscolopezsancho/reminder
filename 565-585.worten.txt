@@ -11,7 +11,7 @@ schwierig		Difícil		Uno intentando beber de un barril de cerveza y el camarero 
 frei		LIBRE		un esclavo rompiendo sus cadenas y vistiendose de FRAY
 besetzt		Ocupado		Intentando meter algo en la consigna, pero esta lleno. El guarda le dice, BE y SIT. El le hace una Z y eT lo hace desaparecer
 allein		Solo		Un solo pan en todas las baldas y un alien la coge antes
-begleitet		Acompañado		Un señor mayor acompañado, con alguien joven del brazo. Y le dice BE, toma este GLAss de watter y come esta TETa
+begleitet		Acompañado		Un señor mayor acompañado, con alguien joven del brazo. Y le dice BE, deslizate GLEID (como el pinguino de Fight Club) y come esta TETa
 Subjekt		Sujeto		El dependiente atado al asiento y con bozal, mientras un cliente le azota
 				
 jung		JOVEN		Un joven en el columpio, saltando hasta el infinito
