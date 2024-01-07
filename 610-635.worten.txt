@@ -3,7 +3,7 @@ gerecht		Justo		Hitler entra en el telepi y le cortan la cabeza en una gillotina
 gleich		Igual		
 				
 nein		NO		
-nie		Nunca		Tom Hanks (Forrest) va a pasar por la barrera y nunca se sube, les crece la barba hasta el suelo
+nie		Nunca		Tom Hanks (Forrest) va a pasar por la barrera y nunca se sube, les crece la barba hasta el suelo. Sin NIE no se levanta le dicen.
 auch nicht		Tampoco		Va a dejar el recado de amazon y esta ocupado la consigna, abre otra y tampoco, asi con todas. Al final se pilla los dedos AUCH
 falsch		Falso		
 ungerecht		Injusto		Hitler otra vez pero la cabeza sale fuera de la linea, golpeando las cajas como un bola de bolos
@@ -32,5 +32,5 @@ fast		Casi		Pasa la tarjeta y casi roza el lector. Lo hace a toda velocidad FAST
 mehr		Más		
 weniger		Menos		Cuenta los que hay en la piscina, mira la altura del agua y dice MENOS, salid dos. VEN y marchando que es GERundio
 allein		Solo		
-einige, jemand		Alguno		Alguno tiene jabon, mira el reloj algun dia me responderan. Aparece hEMAN con un J en la frente y le da uno EIN muy pequeñito
+einige, jemand		Alguno		Alguno tiene jabon? mira el reloj algun dia me responderan. Aparece hEMAN con un J en la frente y da jabon y le ofrece mas opciones, alguna otra cosa? hay EIN hitler GE
 keiner		Ninguno		Aparece sKEINEt (T800 sin piel) y explota. No queda ninguno vivo.
