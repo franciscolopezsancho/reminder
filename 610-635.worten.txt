@@ -8,6 +8,7 @@ auch nicht		Tampoco		Va a dejar el recado de amazon y esta ocupado la consigna, 
 falsch		Falso		
 ungerecht		Injusto		Hitler otra vez pero la cabeza sale fuera de la linea, golpeando las cajas como un bola de bolos
 anders		Distinto		Un se mira en un espejo y se ve mujer. Se pone un gorro y se sube a la montaña helada (ANDEs)
+ähnlich		similar		mirando en la puerta de la encargada y se ve reflejado igual, aun con la puerta abierta y se mete EN un LIJA para limar las diferencias y ue sean iguales
 				
 gut		BIEN		
 schlecht		Mal		
