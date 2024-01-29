@@ -1,0 +1,189 @@
+ drucken (v) print
+ senden (v) transmit
+ einreichen (v) submit
+ bearbeiten (v) edit
+ exportieren (v) export
+ importieren (v) import
+
+ sich verringern (v) decrease
+ ausziehen (v) take off
+ anprobieren (v) try on
+ anziehen (v) put on
+
+ nicht zusammenpassen (v) clash
+ Wäsche waschen wash clothes
+ nähen (v) sew
+ flicken (v) mend
+ stricken (v) knit
+ färben (v) dye
+ ein Kleidungsstück anpassen fit a garment
+ zusammenpassen mit (v) go with
+ zusammenpassen mit (v) match
+ abstimmen (v) go with
+ abstimmen (v) match
+ waschen fem (v) wash
+
+ bekommen (v) receive
+ können (v) can
+ lachen (v) laugh
+ scherzen masc (v) joke
+ ausruhen (v) rest
+ zeichnen (v) draw
+ legen (v) put
+ versuchen (v) try
+ bewegen (v) move
+ warten (v) wait
+ fürchten (v) fear
+ ähneln (v) resemble
+ respektieren (v) respect
+ danken (v) thank
+ lieben (v) love
+ lesen (v) read
+ stehen (v) stand
+ verfehlen (v) miss
+ betreten (v) enter
+ Freut mich, Sie kennenzulernen. Nice to meet you.
+
+ anmachen (v) turn on
+ ausmachen (v) turn off
+ essen gehen eat out
+ telefonieren (v) call
+ telefonieren (v) telephone
+ mailen (v) e-mail
+ im Internet surfen surf the internet
+ zurückkehren (v) return
+ baden (v) bathe
+ entspannen (v) relax
+ trainieren (v) exercise
+ aufwachen (v) wake up
+ pendeln (v) commute
+ verlassen (v) leave
+ sich die Zähne putzen brush one's teeth
+
+ zurückgeben (v) return
+ kaufen (v) buy
+ texten (v) text
+
+ sich verwählen call a wrong number
+ wählen (v) dial
+ abnehmen (v) pick up
+
+ frieren (v) freeze
+ vereisen (v) ice over
+ aufheitern (v) clear up
+
+ bewölkt werden become cloudy
+
+ schmecken (v) taste
+
+ putzen (v) brush
+ rasieren (v) shave
+ kämmen (v) comb
+ baden (v) take a bath
+ bürsten (v) brush
+ gurgeln (v) gargle
+ schneiden (v) cut
+ föhnen (v) blow-dry
+ brechen (v) break
+
+ wischen (v) wipe
+ putzen (v) clean
+ trocknen (v) dry
+ staubsaugen (v) vacuum
+ fegen (v) sweep
+ wegräumen (v) put away
+ wischen (v) mop
+ herausbringen (v) take out
+
+ blühen (v) bloom
+ welken (v) wilt
+
+ inspizieren (v) inspect
+ beschlagnahmen (v) confiscate
+ verzollen (v) declare
+ Steuern bezahlen pay taxes
+ ausfüllen (v) fill out
+
+ umrechnen (v) convert
+ umrechnen (v) change
+ umrechnen (v) change
+
+ wechseln (v) convert
+ wechseln (v) change
+
+ rennen (v) run
+ springen (v) jump
+ schießen (v) kick
+
+ tanzen (v) dance
+ angeln (v) fish
+ trainieren (v) work out
+ einchecken (v) sign in
+ einchecken (v) check in
+ auschecken (v) check out
+
+ klopfen (v) knock
+ jubeln (v) cheer
+ verlieren (v) lose
+ gewinnen (v) win
+ vorlesen (v) read aloud
+ wiederholen (v) repeat
+ korrigieren (v) correct
+ zuhören (v) listen
+
+ bereisen (v) tour
+ organisieren (v) arrange
+
+ Sehenswürdigkeiten anschauen go sightseeing
+ Sehenswürdigkeiten anschauen sightsee
+
+ begleiten (v) accompany
+ teilnehmen (v) attend
+ ankommen (v) arrive
+ eine Vorlesung besuchen attend a lecture
+ beantworten (v) answer
+ unterrichten (v) teach
+ einen Test schreiben take a test
+
+ zu spät kommen be late
+ einen Satz bilden make a sentence
+
+ unterstreichen (v) underline
+ radieren (v) erase
+ einen Test bestehen pass a test
+
+ fehlen (v) absent
+ zuteilen (v) assign
+ beaufsichtigen (v) supervise
+ in Rente gehen retire
+ übersetzen (v) translate
+ reisen neut (v) travel
+ absolvieren (v) graduate
+ umziehen (v) move
+ geboren (v) be born
+ Arbeit finden get a job
+ sterben (v) die
+ verloben (v) engage
+ heiraten (v) marry
+
+ streichen (v) cancel
+ Gepäckabfertigung fem luggage pickup
+
+ besteigen (v) board
+ bestätigen (v) confirm
+ reservieren (v) reserve
+ abheben (v) take off
+ landen (v) land
+ mieten (v) rent
+ einen Brief schreiben write a letter
+
+ zurücksenden (v) return
+ verschließen (v) seal
+ um die Ecke biegen turn a corner
+ rote Ampel fem red light
+ sich am Geländer festhalten hold onto the handrail
+ seinen Sitzplatz anbieten give up a seat
+ fahren (v) ride
+ umsteigen (v) transfer
+ bezahlen (v) pay money
+ in ein Auto einsteigen get in a car
