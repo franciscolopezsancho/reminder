@@ -1,0 +1,19 @@
+- Anatomy of an Index
+  - The Index leaf nodes -> 
+  		- It's indexing with a doubled linked list 
+      - data in DISK is stored as a unorderer, but linked list can repoint, move. 
+      - Moving data it's expensive 
+  - the B tree
+     - balance tree
+     - tree traversal: moves to next item in same level if `found` is < thand lookedfor
+     else (>=) moves to next-level
+     - depending on the base of the log each level will hold more or less entries. An exp of 10 in 6 levels would have a million
+  - Slow indexes 
+    - first is the leaf node chain. Not only needs to go through the tree traversal but also the leaf chain. ?why should that be slow. even if we have a log base 100? 100 elements should be retreive as fast as 6? 
+    - The query needs to hit the table afterall and that can be hundreds of hits. 
+    - An oracle DB can make three different look ups in an index
+      -  INDEX UNIQUE SCAN -> Only the tree traversal. only looking for one hit. Fast (how cannot to the leaf chain?)
+      -  INDEX RANGE SCAN -> tree traversal and leaf chain. Slower
+      -  TABLE ACCESS BY ACCESS ROWID -> the operation that retrives the row from the table 
+
+    So it's slow if range SCAN hits many indices in combination with the table access.
