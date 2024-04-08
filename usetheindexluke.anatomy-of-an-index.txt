@@ -14,6 +14,10 @@
     - An oracle DB can make three different look ups in an index
       -  INDEX UNIQUE SCAN -> Only the tree traversal. only looking for one hit. Fast (how cannot to the leaf chain?)
       -  INDEX RANGE SCAN -> tree traversal and leaf chain. Slower
-      -  TABLE ACCESS BY ACCESS ROWID -> the operation that retrives the row from the table 
+      -  TABLE ACCESS BY INDEX ROWID -> the operation that retrives the row from the table 
 
     So it's slow if range SCAN hits many indices in combination with the table access.
+
+
+
+https://modern-sql.com/

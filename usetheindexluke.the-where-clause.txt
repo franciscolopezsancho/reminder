@@ -1,0 +1,22 @@
+the equality operator - the tubes
+- primary keys - on top of the building a key dress as kindergarten (mandilon)
+	- looking with a WHERE for that primary key performs a INDEX UNIQUE SCAN (along with the TABLE ACCESS BY INDEX ROW ID) - looking for one finger with a laser and puts it on a table.  
+	- this is alwasy fast - even in a wheelchair
+- Concatenated Indexes - cadena the dedoes para entrar en la tienda
+  - For examples mergin employees tables from two different companies and creating a index ON (employee_id, subsidiary_id) - se mezclan los dos en la sarten
+  - using both in a WHERE use the INDEX - werewolf killing both and they use the index pointing to him.
+  - using only one, does not. That would be a full scan (TABLE ACCESS FULL). -> WHERE kills only one and table gets thrown to him
+    - full scan can read bigger chunks at a time. Sometimes does less reads and a INDEX RANGE SCAN. -> making scans of big chunks of the building and thrwoing a book away. Doesn't read
+  - implementation of a double index? ->  
+  - better to invert the indexes? at least that's what the query plan says. -> changes the indexes of hands and searches over a box of files super fast
+  - A double index is better for selects but worse for insert, delete, update. -> a hand with two index is faster to search but another with one midle finger is better for insert and so on 
+- SLOW indexes -> hand walking slow in the highway, cars passing around 
+  - index ON (subsidiary_id, employee_id) can be used to search and SELECT that filters by subsidiary_id -> a man with one index through one employee and the shop while looking inside the puesto
+  - SELECT first_name, last_name, subsidiary_id, phone_number
+     FROM employees
+     WHERE last_name = "WINDADN"
+       AND subsidiary_id = 30 -> coge el nombre del ultimo mohicano y la autentication de la empresa para la que trabaja.
+  - the execution plan that uses the index needs an INDEX RANGE SCAN (total cost 30 from the TABLE ACCESS BY ROW ID -> aparece Chuck norris con un scaner y le costa un muro tocar la mesa con una row 
+  - with the previous PK with employee_id first it would not use the PK and do a TABLE ACCESS FULL - cost 477 -> se pone un empleado delante y un empresario (bien vestido) detras -> WEREWOLF empieza a toquetear toda la mesa
+  - the problem here is the plan execution didn't have the statistics available and by default it stimates that 40 is the amount of data will find by subsidiary_id. Which is flatly wrong. -> pierde los papeles, las estadisticas y aparece chuck norris con su scan y es mas lento que el ciego que tiene que tocar toda la mesa con su row. 
+  - With the statistics up to date would estimate that the INDEX RANGE SCAN will be 688 and find out that this is more than a FULL TABLE SCAN. -> Encuentra las estadisticas y se da cuenta que el ciego iba a ser mas rapido fiho. Lo sabia, dice mientras mira a chuck frustrated.
