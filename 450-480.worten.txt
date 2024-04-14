@@ -1,3 +1,12 @@
+(das) Heute		HOY		EPI golpea la mesa quiero este informet para hoy
+Gestern		Ayer		Blas tomando cocido de ayer y viendo un wESTERN
+(der) Morgen		Mañana		Brad levantandose con el sol que entra por la ventana
+Übermorgen		Pasado mañana		Dos soles en el armario
+Der Nachmittag		mediodia		Brad cortando un sol en dos en la ducha
+Der Abend		Tarde		se va al armario y empieza a anochecer
+Die Nacht		Noche		sharon  se mira al espejo no puede por que se ha hecho de noche
+
+
 Die Woche		SEMANA		en la barra de pull ups sharon colgada un un calendario, agarrada de una fila, la semana
 Das Wochenende		Fin semana		aparece EPI con una catana y corta (FIN) el calendario por la semana (WOChE) 
 Der Feiertag		Día festivo		Brad friendo un label tag

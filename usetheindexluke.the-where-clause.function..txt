@@ -1,0 +1,20 @@
+WHERE - con una brujula en los masajes
+- Functions - FUNK (james brown) in the car 
+    - Case insensitive: UPPER, LOWER -
+      - Some of them are insensitive like mySQL and SQL Server  - uno ni se inmuta
+      - If you have index it won't work if you use UPPER or LOWER and the index is not on UPPER on LOWER -> otro solo si le dan abajo
+    - Using function as an index. (in postgres) only if added 'deterministic' or 'immutable'. JamesBrown con un dedo de piedra
+    - over indexing: not good for insert, update, delete.
+- Parameterized queries -> paracas con ?
+    - security: binding params are best to prevent SQL injection. -> injectiones
+    - performance: SQL Server and Oracle can reuse the execution plan. It's the same query after all. -> in a tred mill
+      - exceptions: it can assume the same distribution and fail. -> corriendo y se toña, assume is further away the step. Señora durmiendo
+      - not using bind parameters is like compiling the code every time. Optimization needs to be reevaluated every time. -> se queda sin palitos ? cocinando cada vez el que alguien le pide un palito de pollo 
+      - There is the dilema, reusing the same cached optimization for different bind values saves the DB to recalculate the optimization but as a trade off it won't be the best optimization. -> con la cadavera shakespeare y mientras le cachean
+- Searching for ranges -> buscando a Chuck Norris (ranger)
+    - inequality operators like < or > or LIKE can use and INDEX -> Dani devito y Schwarzenegger usando el dedo para atacar al del agua
+    - the biggest risk, the golden rule is how big is the index range scan. -> poniendo una medalla de oro sobre el dedo de chuck
+    - >,< and between. -> Dani devito, SCHW y uno en medio subiendo las escaleras
+     -  Example of birthdate < x and > y and subsidiary = 27. If the 
+    		  x and y are broad the and read starts by them will be slow. If it starts by 27 and there are very few 27 the query will be fast.  -> uno con los hombros anchos vs 27(Anna Jul)
+    - LIKE. Where the wildcard is makes all the diference. Only what is previous to the wildcard can be used. -> le dice I like you a la de la cafeta y esta dice elige. Cartas abajo. Si elije la primera le da el finger si elige el ultimo un beso.
