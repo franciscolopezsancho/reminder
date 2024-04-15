@@ -5,11 +5,12 @@ verderben		estropear		Esta con la computer y saltan los muellen. Llamma a la mas
 brechen		romper		le da una ostia al coco y abre una brecha en la parte del centro
 schneiden		cortar		Schneiden a punto de meter gol y le cortan la pierna
 kleben		pegar		pegando dos tuberias juntas sin pegamento, y le pregunta el otro? como conio lo has hecho, se toca el temporal. Soy muy listo (CLEVER)
-DOKUMENTATION		DOCUMENTACIÓN		Le pide la documentacion del coche
-Reisepass		Pasaporte		le rompe el pasaporte y le dice viaja (REISE) con este QR.(PASS) 
-Polizei		Policía		El policia saca la porra y se arrodilla en su cuello
-Zoll		Aduana		Va a salir del aeropuerto y le dice el Zorro pon tu maleta en esta olla
-Gepäck		Equipaje		arrastrando 5 maletas y uno se rie (GE) y le dice Juntalas todas (PACK)
-Koffer		Maleta		Abre la maleta muy pequeNNa y saca un cofre gigante
-Aktenkoffer		Maletín		saca unos papeles del maletin y salen unos actores (Brad pitt, John Malcovich) recitan algo y le dan un kofre
-Reisetasche		Bolsa de viaje		va a hacer el checking y le sacan todo de la maleta y se lo ponen en una bolsa de Iberai. No se preocupe, le dicen, es una bolsa especial. Es de viaje. No ve el logo?
+DOKDie Dokumentation		DOCUMENTACIÓN		Le pide la documentacion
+Der Reisepass		Pasaporte		le rompe el pasaporte y le dice viaja (REISE) con este QR.(PASS) 
+Die Polizei		Policía		El policia saca la porra y se arrodilla en su cuello
+Der Zoll		Aduana		Va a salir del aeropuerto y le dice el Zorro pon tu maleta en esta olla
+Das Gepäck		Equipaje		arrastrando 5 maletas y uno se rie (GE) y le dice Juntalas todas (PACK)
+53		53		
+Der Koffer		Maleta		Abre la maleta muy pequeNNa y saca un cofre gigante
+Der Aktenkoffer		Maletín		saca unos papeles del maletin y salen unos actores (Brad pitt, John Malcovich) recitan algo y le dan un kofre
+Die Reisetasche		Bolsa de viaje		va a hacer el checking y le sacan todo de la maleta y se lo ponen en una bolsa de Iberai. No se preocupe, le dicen, es una bolsa especial. Es de viaje. No ve el logo?																						
