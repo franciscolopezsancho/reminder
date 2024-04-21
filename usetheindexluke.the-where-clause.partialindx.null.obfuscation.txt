@@ -1,0 +1,40 @@
+THE WHERE CLAUSE
+
+Partial indexes -> Ben stiller with half fingers off
+  - Trying to filter by processed = 'N' and receiver = ?. 
+    - we can optimize with an index by both -> BS creating tow cibernetic fingers
+    - but we can optimize even more with a partial index on receiver where processed = 'N'. -> BS creating one giant cibernetic finger
+Nulls -> chris nuhlan with no money
+ - SQL standard does not define NULL -> CN pide dinero a SQL y no le entienden. No saben lo que es NULL. Que tienes NULL, y ere pobre? what?
+ - Generally NULL represent missing data -> CN quiere pasar y este le dice que no esta en la lista
+ - Nulls in the Oracle DB -> se cuela en lo de addidas con la del oracle de matrix
+    - uses NULL to store empty string -> ella rellenando botes vacios en con empty folios.
+    - don't index rows where the index column is null -> mira su dedo y le falta, aparece CN y le da un susto
+    ...
+Obfuscated conditions -> saliendo del garage el MOloch from watchmen 
+  - those are where conditions that prevent proper index usage -> molestando a unos que intentan usar su index con el movil 
+  -DATES = Le pregunta que dia es
+  		- In Oracle they always have time. Thus people use TRUNC to "remove" the time. -> cortando un reloj como si fuera un tronco 
+        - But looking with WHERE TRUNC can't use the index except that this is created with TRUNC too. -> intendando usar ese el reloj con el indice pero no funciona. Se le ocurre creaar un indice con el tronco.
+      - Same happens in any DB with DATE if look for let's say Month and year. WHERE DATE_FORMAT(sale_date, "%Y-%M") = DATE_FORMAT(now(), "%Y-%M") -> Le pasa lo mismo en lo del cafe dandole forma a un periodico. El dedo no le funciona.
+        - The solution is to use a function (deterministic or immutable) -> se le ocurre crear un dedo con el periodico
+          ? - How is DATE_FORMAT different from a determinisc funtion? 
+      - OR WHERE TO_CHAR(sale_date, "yyyy-mm-dd") = '1970-01-01'... -> Le pasa lo mismo a charles chapling no puede usar los indices en los relojes shop
+        - The solution 
+           - is use Bind paremeters??
+           - OR is to transfor TO_DATE the right part of the where => 
+              WHERE sale_date = TO_DATE('1970-01-01', yyyy-mm-dd)  -> se da la vuelta en el uniclo.
+  - NUMERIC STRINGs: if WHERE numeric_string = 42 won't be able to use the index. -> aparece un numero con cuerdas en los bolsos
+    - Postgres will fail. -> michale stonebraker se tropieza  
+    - plus is troublesome: performance and conversion errors -> se levanta con torpeza, no le funcionan las piernas y las converse las se le desgajan
+  - COMBINING COLUMNS: -> HERCULES combinando columanas en la farmacia
+      When the WHERE uses a function to merge two indexed columns in one value 
+      such ADDTIME(columndate, columntime) = smth -> se le caen los dedos
+      - SOLUTION: 
+        - to create a column with that combination and index it -> crea un index con esas dos columnas y es los pega
+        - to use a function based index -> cree un James Brown con enormes index
+        - add a redundant condition in the where that uses only one of the indexed columns. There's a better option for Postgress -> crea otra columna y le clava un index
+        - ?
+        - ?
+  - SMART LOGIC -> trying to use bind selects to use Static SQL can be more harmfull than anything else. Using binds along the optimizer has to prepare for the worst.  Since the optimizer doesn't know the values. THIS CONTRADICS PREVIOS -> Dr Stranger - poniendose blinds and creando un vacio -> destruccion total
+  - MATH: You can use math function in a WHERE as long you create that math function as an index. -> Moth gigante se pone gafas. 
