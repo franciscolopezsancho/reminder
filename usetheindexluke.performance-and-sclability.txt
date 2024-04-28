@@ -1,0 +1,17 @@
+Performance and scalability -> beyonce subiendo por un scala encima de donde comi
+  - definition about handle growing load vs enlarging for growing load. -> le toman dos pictures una de cada lado 
+  IMPACT DATA VOLUME -> se dat una hostia contra un voluminso disco duro
+  - slow index vs fast index => un index como un caracol y otro como la mano de los adams (the thing) 
+    one grows linear as data the other logaritmic
+    - dependeds on the predicate information -> cuerda atada a dos predicadores (-> con metiendo una llave en un filtro casi no pudede (there will be blod) -> y el otro una llave dentro de otra llave (first reformed)
+      slow = access(c1) + filter(c2)
+      fast = access(c1 and c2)
+      - this depends on their index
+        slow = index ON c1, c3, c2 -> twbb flagelandoes 
+        fast = index ON c1, c2, c3 -> con una regla 
+  IMPACT ON SYSTEM LOAD -> se da una hostia mientra lleva mucha carga
+  - same difference on the index slow and fast when multiple queries are running against the DB. Even if the data doesn't grow. -> muchas queers animando al de la hostia ( y los preachers riendose) -> las queers se transforman en preachers. Igual que ellos
+     https://blog.fatalmind.com/2009/12/22/latency-security-vs-performance/ 
+     https://jamesgolick.com/2010/10/27/we-are-experiencing-too-much-load-lets-add-a-new-server..html
+  RESPONSE TIME, THROUGPUT AND HORIZONTAL SCALABILITY -> midiendo salida con disparo, el agujero en la pared y engordando solo de caderas
+     A bad index, or joins (generally expensive) can be cured with bigger machines, horizontal scaling, caching nor SSDisks. -> un indice podrido (le ponen encima compiuters, sigue oliendo -> mas a los lados, sigue -> un guante de beisbos (cache) igual y discos dvd. igual.
