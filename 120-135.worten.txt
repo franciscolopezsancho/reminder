@@ -1,6 +1,6 @@
 Flugzeug - das Flugzeug		AVION		dentro del avion la gente estornudando FLU otros riendo GGGG y el mismismo ZEUs
 Flug - der Flug		Vuelo		Un tipo con alas estornuda y empieza a volar
-Schiff - das Schiff		Barco		claudia Schiffer vestida de capitana de barco en la proa de un barco como el titanic
+Schiff - das Schiff		Barco		claudia Schiffer vestida de capitana de barco en la proa de un barco como el titanic. Se convierte en una muñeca hinchable. Hence DAS.
 Zug - der Zug		Tren		un trenecito con un pitidito muy chulo
 U-Bahn - die U-Bahn		Metro		un metro de medir y un tren que lo arrolla
 Straßenbahn - die Straßenbahn		Tranvía		un tranvia se cortocircuita y la calle se electrocuta. Close, BANNED le ponen an el tranvia
