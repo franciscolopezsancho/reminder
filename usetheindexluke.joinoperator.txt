@@ -1,0 +1,23 @@
+The Join operator - bob marley
+- Nested Loop  - dando vueltas en la cama, con un nest
+   - the nested loop join is a implementation of a join that the engine uses to traverse two joined tables. - atraviesa dos tablones con el dedo
+     - This is a for (for loop) the DB executes. - un harrison for encima de otro (armario)
+   - another option is to use two nested selects but this has the penalty of latency. - two de la seleccion (sergio ramos y casillas) con nests en la cabeza y les pitan un penalty por hablar 
+   	 - This is a for (for loop) executed in the client! so the inner loop has to pay for the latency. - la ORMa de un zapato 
+   	 - Bare in mind some ORM might do this underneath. Instead of a join. - y debajo otra vez casillas y sergio ramos
+   	   - To avoid this you some ORMs have eager fetching but that might be an overkill if you are only using the second table for filtering. That is, you don't need the data. - la orma la coje angela fletcher colgando un eagle
+   	 - This is an antipattern. Time complexity is O(m x n) - un cazador de patos y le cae un Big O
+   - nested loop joins are eficient if the driving(primera with the outer) query returns a small result set -> un cadena de montaje con un queer pitufo al mando
+   - you need to index like you are indexing for "nested selects" -> bob clavando los indexes a sergio y casillas
+- Hash Join - haciendose un join de cenizas
+  - takes the smaller table and hashes the column to join O(m) as key and brings the rest of data to the value - convierte una minimesa en hashes y le cae un BigO (donut gigante)
+  - takes the bigger table and use the hash O(1) for each row (n) 
+    - total O (m + n) (este y el anterior en el donut)
+  - to tune it you need an index in the "independent" where. Independent = only belongs to one table and it does NOT belong to the join.  -> puigdemont dandole a un tocadisco (tuning)  
+  - only possible if the whole hash fits into memory -> las cenizas no entran en el cenicero
+  - possible to reduce the size of the hash by reducing the columns selected in the - reduce las cenizas quitando columnas 
+- Sort Merge - mezclando de todo en la lavadora
+  - When two tables are sorted by the join column the DB might choose this algorithm - dos mesas con una pata de oro
+  - It's specially useful for outter joins - usa las dos patas de oro de las mesas para coger un join del vecino. 
+
+ - nested join is best for small data sets, hash-join for unsorted large datasets with a small table that can fit in memory, sort-merge for large sorted datasets -> on the stairs se pelean por levantar la copa. 
