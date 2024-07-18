@@ -1,0 +1,19 @@
+Clustering data: - monja de clausura. Maria teresa de calculta
+ - a cluster is a row. That stores all columns in the same block if possible. -> puts a lot of columns in the same bag
+ - indexes allow to cluster data. - fingers holding bags of columns. 
+   - This is the "second" super power of indexes. (The first is B-tree traversals) -> two fingers flexing biceps vs one finger flexing a tree (nevera)
+
+ - how to use indexes to cluster data.  
+ 1. Index filter predicate used intentionally 
+    Bad practice is use an incorrect order in a concatenated index. Using the filter in the query with a different order as the index. Filtering first for the second column of the index, for example in the next example. -> queer dando en wrong order al simon says
+    Good practice to cluster data like: -> queer con halo de santo (boulangerie)
+      using in the index the where columns of the query, for example:
+      - select first_name, last_name, company_id from employees
+         where company_id = ? AND upper(last_name) like %INA%
+
+      - Adding an index such as:
+        create index my-index on employees (company_id, upper(last_name))
+
+      - But not because of the usage of the index but because that would cluster all these data of the index in the same block and it can be accessed at once. Otherwise the engine might need to read multiple blocks to fetch the data of the last_name. (storeing lots of index in the same bag. When gets the cookies)
+        - The index cluster factor: the factor of hitting the same block in two consecutive entries of the index. Low factor means that to row are close. -> sujetando on los indices bolsas cantando en el factorx. Al microfoono instead of the icecream
+      - it doesn't have to access the table can perform the where filter in the index! -> filtra el cafe atraves de la piel del index. Se amplia hasta que la piel se vuelve porosa.
