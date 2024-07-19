@@ -1,0 +1,14 @@
+K8s - control plane and Data Plane
+
+Control Plane - se pone un condon en la cabeza
+
+- kube-apiserver - all other control plane components communicate with it  -> un camarero se tira a sus pies
+- ETCD - key value store where stores all the data	- contando historias para no dormir en las escaleras del fondo. Etc etc
+- kube-controller-manager - bunch of controllers that reconcile Jobs, Deamons, PersistenVolumens and all the rest - 
+- kube-scheduler - assigns pods to nodes. - con un cronometro colocando la ropa en perchas 
+Data Plane - se llena de papeles al salir a la calle. 
+
+Kubelet - ensures the containers are running in the pod - Reports status to server API - le tira un cubo y kb mira que esten currando en el scaffold. Apuntando quien no. Llama para quejarse.
+Container runtime - responsible for running containers, docker, container-d, crio. Report status to server API -> Corriendo encima de un container como un raton
+kube-proxy - a network proxy that managers virtual IPs necessary to reach - coje un cubo y se lo da a otro. como si apagaran un fuego. 
+Pods - smallest unit of deployment -> pide un cafe y le sirve uno pequeñisimo con una vaina dentro. 
