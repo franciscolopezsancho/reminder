@@ -2,7 +2,7 @@
 Gestern		Ayer		Blas tomando cocido de ayer y viendo un wESTERN
 (der) Morgen		Mañana		Brad levantandose con el sol que entra por la ventana
 Übermorgen		Pasado mañana		Dos soles en el armario
-Der Nachmittag		mediodia		Brad cortando un sol en dos en la ducha
+Der Nachmittag		mediodia		Brad cortando un sol en dos, con gafas de sol, en la ducha
 Der Abend		Tarde		se va al armario y empieza a anochecer
 Die Nacht		Noche		sharon  se mira al espejo no puede por que se ha hecho de noche
 
@@ -34,7 +34,7 @@ Der Dezember		Diciembre
 				
 Der Meter		METRO		Brad mide el sillon, tira una pesa de kilo y luego coge una grande como un coche y se tira con ellla al sillon
 Der Kilometer		Kilómetro		...
-Das Kilo		Kilo		
-Die Tonne		Tonelada		
+Das Kilo		Kilo		Epi pesando en el otro sillon un kilo de arroz
+Die Tonne		Tonelada	Monserrat Caballet sentandose encima	
 				
 Das Wetter		TIEMPO		EPI mirando la tele y la mujer del tiempo, y se pone humeda y mas humeda
